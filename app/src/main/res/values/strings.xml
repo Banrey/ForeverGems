@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Besparkled</string>
+    <string name="txt_missing_fields">Missing Field(s)</string>
+    <string name="txt_close">Close</string>
+    <string name="txt_view_overhead">Overhead</string>
+    <string name="txt_view_label_overhead">Overhead per hr/unit</string>
+    <string name="txt_view_labor">Labor</string>
+    <string name="txt_view_label_labor">Labor cost per hr/unit</string>
+    <string name="txt_view_materials">Materials</string>
+    <string name="txt_view_label_materials">Material cost per hr/unit \nSilver, Gold, Gems, etc...</string>
+    <string name="txt_view_product_cost">Product Cost </string>
+    <string name="txt_view_label_product_cost">Product cost per hr/unit</string>
+    <string name="txt_view_wholesale_price">Wholesale</string>
+    <string name="txt_view_retail_price">Retail Price</string>
+    <string name="txt_view_markup">Markup</string>
+    <string name="txt_view_label_wholesale">Wholesale Price</string>
+    <string name="txt_view_label_btn">Calculate</string>
+    <string name="txt_view_label_markup">1.5=150% Markup</string>
+    <string name="txt_view_label_markupW">Recommended: 1.5=150% Markup</string>
+    <string name="txt_view_label_markupR">Recommended: 2.5=250% Markup</string>
+    <string name="txt_view_instructions">Long press any field to see details</string>
+    <string name="txt_view_company_name">Forever Gems</string>
+
+
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="EditText" parent="TextAppearance.AppCompat">
+        <item name="android:textColor">@color/DiaDarkblue</item>
+        <item name="android:textColorHint">@color/DiaDarkblue</item>
+        <item name="android:background">@drawable/edittext_border</item>
+        <item name="android:fontFamily">sans-serif-smallcaps</item>
+
+    </style>
+
+    <style name="TextView" parent="TextAppearance.AppCompat">
+    <item name="android:textColor">@color/Brown</item>
+
+</style>
+
+
+</resources>
